@@ -1,1 +1,2 @@
-# git_test
+Hello Odin!
+CR7 is da goat
